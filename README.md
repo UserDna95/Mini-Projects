@@ -3,7 +3,7 @@
 A collection of small Python projects for learning and experimentation.
 
 ### Projects
-- [Taxes Calculator](./taxes)
+- [Taxes Calculator](./taxes-calculator)
 - [Tower of Hanoi Solver](./tower-of-hanoi)
 - [Fibonacci Sequence Generator](./fibonacci-sequence)
 - [GCD Finder](./gcd)

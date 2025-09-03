@@ -2,7 +2,6 @@
 
 A collection of small Python projects for learning and experimentation.
 
-### Projects
 - [Taxes Calculator](./taxes-calculator.zip)
 How can I calculate my federal and provincial taxes with my income?
   
